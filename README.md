@@ -1,5 +1,5 @@
 # Cybersecurity Analyst Projects
-Overview
+
 This repository contains various Cybersecurity Analyst projects, covering areas such as threat detection, risk assessment, incident response, vulnerability management, and security automation. 
 ## Table of Contents
 ## Projects Overview
