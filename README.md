@@ -1,16 +1,61 @@
-# Cybersecurity Analyst Projects
+# 👋 Hi, I'm [Your Name]
 
-This repository contains various Cybersecurity Analyst projects, covering areas such as threat detection, risk assessment, incident response, vulnerability management, and security automation. 
-## Table of Contents
-## Projects Overview
+## 🧠 About Me
+I'm a passionate **Cybersecurity and Data Analytics Professional** with a strong interest in threat detection, SIEM tools, and data-driven decision-making. With a background in teaching, data analysis, and a recent transition into cybersecurity, I enjoy solving real-world problems using tools like **Splunk**, **Power BI**, **SQL**, and **Python**.
 
-Projects Overview
-This repository contains multiple projects related to cybersecurity analysis. Each project includes detailed documentation, scripts, and sample datasets where applicable.
+---
 
-Categories of Projects
-Log Analysis & Threat Detection – Identifying anomalies in system and network logs.
-Incident Response & Forensics – Simulating cyber incidents and investigating breaches.
-Vulnerability Assessment & Management – Scanning and mitigating security weaknesses.
-SIEM & SOC Operations – Using tools like Splunk, ELK Stack, and Graylog for real-time monitoring.
-Threat Intelligence & Malware Analysis – Researching attack vectors and analyzing malicious software.
-Network Security & Firewalls – Implementing intrusion detection and prevention strategies.
+## 🔧 Skills & Tools
+- **Security & Monitoring**: Splunk, Wireshark, Sysmon, Sigma, Zeek
+- **Data Analysis**: Power BI, SQL, Python (Pandas, Matplotlib), Excel
+- **Threat Intelligence**: MITRE ATT&CK, OSINT, OpenCTI
+- **Automation & Scripting**: Python, Bash
+- **Other Tools**: Git, Markdown, Linux, Windows Server
+
+---
+
+## 📁 Portfolio Projects
+
+### 🔍 Splunk Lab – Security Log Analysis & Dashboarding
+- Used **Splunk** to ingest and analyze Windows event logs.
+- Built dashboards to monitor failed logins, unusual activity, and potential brute-force attacks.
+- Created alerts based on abnormal behavior using SPL (Search Processing Language).
+
+➡️ [View Project](https://github.com/your-username/splunk-lab-project)
+
+---
+
+### 📊 Power BI – Incident Response Metrics Dashboard
+- Visualized SOC KPIs including MTTR, alert volumes, and analyst performance.
+- Data sourced from synthetic incident response data.
+- Created interactive filters and report pages for executive visibility.
+
+➡️ [View Project](https://github.com/your-username/powerbi-soc-dashboard)
+
+---
+
+### 🐍 Python + Pandas – Security Log Parser
+- Wrote Python scripts to parse and summarize log data from Windows and Linux systems.
+- Used Pandas and Matplotlib to analyze trends in network activity and login patterns.
+
+➡️ [View Project](https://github.com/your-username/log-parser-python)
+
+---
+
+## 📚 Certifications & Learning
+- 📜 Microsoft Certified: Data Analyst Associate *(in progress/completed)*
+- 📜 Splunk Core Certified User
+- 📜 Full Stack Data Analyst – Data Mentor Bootcamp
+
+---
+
+## 🌐 Let's Connect
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🛡️ GitHub: [github.com/your-username](https://github.com/your-username)
+
+---
+
+_Thank you for visiting my portfolio!_
+
+ting intrusion detection and prevention strategies.
