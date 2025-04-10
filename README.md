@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Yordanos
 
 ## 🧠 About Me
-I'm a passionate **Cybersecurity and Data Analytics Professional** with a strong interest in threat detection, SIEM tools, and data-driven decision-making. With a background in teaching, data analysis, and a recent transition into cybersecurity, I enjoy solving real-world problems using tools like **Splunk**, **Power BI**, **SQL**, and **Python**.
+I'm a passionate Cybersecurity and Data Analytics Professional  with a strong interest in Defensive Cybersecurity and data-driven decision-making. With a background in teaching, data analysis, and a recent transition into cybersecurity, I enjoy solving real-world problems using tools like **Splunk**, **Power BI**, **SQL**, and **Python**.
 
 ---
 
@@ -58,4 +58,3 @@ I'm a passionate **Cybersecurity and Data Analytics Professional** with a strong
 
 _Thank you for visiting my portfolio!_
 
-ting intrusion detection and prevention strategies.
