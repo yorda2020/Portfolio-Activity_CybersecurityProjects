@@ -14,6 +14,12 @@ This is the Cybersecurity Portfolio Project.
 
 ## 📁 Portfolio Projects
 
+### 🔍 Incident Analysis & Documentation
+- Internal Audit 
+- Built dashboards to monitor failed logins, unusual activity, and potential brute-force attacks.
+- Created alerts based on abnormal behavior using SPL (Search Processing Language).
+
+
 ### 🔍 Splunk Lab – Security Log Analysis & Dashboarding
 - Used **Splunk** to ingest and analyze Windows event logs.
 - Built dashboards to monitor failed logins, unusual activity, and potential brute-force attacks.
