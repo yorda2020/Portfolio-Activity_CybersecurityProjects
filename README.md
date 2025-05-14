@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Yordanos
 ---
 
-_ This is the Cybersecurity Portfolio Project.
+
+This is the Cybersecurity Portfolio Project.
+
 ---
 
 ## 🔧 Skills & Tools
