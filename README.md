@@ -17,7 +17,9 @@ This is the Cybersecurity Portfolio Project.
 ### 🔍 Incident Analysis & Documentation
 - Conducting a Cybersecurity Audit 
 - Document an incident with an incident handler's journal
-- Created alerts based on abnormal behavior using SPL (Search Processing Language).
+- Security incident response based on NIST Cybersecurity Framework.
+  
+➡️ [View Project](https://api.immersivelabs.online/share/achievements/fcb13280bbde3caaa41152bce1fba494)
 
 
 ### 🔍 Splunk Lab – Security Log Analysis & Dashboarding
