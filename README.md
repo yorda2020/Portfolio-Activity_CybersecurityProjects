@@ -23,6 +23,19 @@ This is the Cybersecurity Portfolio Project.
 
 ---
 
+### AIG Shields Up: Cybersecurity virtual experience program on Forage 
+
+ - Completed a cybersecurity threat analysis simulation for the Cyber Defense
+   Unit, staying updated on CISA publications.
+ - Researched and understood reported vulnerabilities, showcasing analytical
+   skills in cybersecurity.
+-  Drafted a clear and concise email to guide teams on vulnerability
+   remediation.
+ - Utilized Python skills to write a script for ethical hacking, avoiding ransom
+   payments by brute-forcing decryption keys.
+
+➡️ [View Project](https://github.com/your-username/log-parser-python)
+   
 ### 🐍 Python + Pandas – Security Log Parser
 - Wrote Python scripts to parse and summarize log data from Windows and Linux systems.
 - Used Pandas and Matplotlib to analyze trends in network activity and login patterns.
