@@ -45,7 +45,7 @@ This is the Cybersecurity Portfolio Project.
 
 ## 🌐 Let's Connect
 - 📧 Email: [yorda.zerie@gmail.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn:[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 🛡️ GitHub: [https://github.com/yorda2020](https://github.com/your-username)
 
 ---
