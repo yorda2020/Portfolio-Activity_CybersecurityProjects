@@ -34,7 +34,7 @@ This is the Cybersecurity Portfolio Project.
 ## 📚 Certifications & Learning
 
 - 📜 MITRE ATT&CK, OSINT, OpenCTI *(in progress)*
-- 📜 AI and Cybersecurity *(in progress/completed)*
+- 📜 AI and Cybersecurity 
 - 📜 AIG's Shields Up: Cybersecurity Job Simulation (Cyber defense)
 - 📜 CompTIA Security+ SY0-701
 - 📜 Google Cybersecurity Specialization
@@ -47,7 +47,7 @@ This is the Cybersecurity Portfolio Project.
 ---
 
 ## 🌐 Let's Connect
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [yorda.zerie@gmail.com](mailto:your.email@example.com)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 🛡️ GitHub: [github.com/your-username](https://github.com/your-username)
 
