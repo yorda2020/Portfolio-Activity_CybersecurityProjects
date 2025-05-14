@@ -32,9 +32,17 @@ This is the Cybersecurity Portfolio Project.
 ---
 
 ## 📚 Certifications & Learning
-- 📜 Microsoft Certified: Data Analyst Associate *(in progress/completed)*
-- 📜 Splunk Core Certified User
-- 📜 Full Stack Data Analyst – Data Mentor Bootcamp
+
+- 📜 MITRE ATT&CK, OSINT, OpenCTI *(in progress)*
+- 📜 AI and Cybersecurity *(in progress/completed)*
+- 📜 AIG's Shields Up: Cybersecurity Job Simulation (Cyber defense)
+- 📜 CompTIA Security+ SY0-701
+- 📜 Google Cybersecurity Specialization
+- 📜 Splunk
+- 📜 TATA Group, Cybersecurity Job Simulation (IAM)   
+                                                                                                                       
+                                                                                         
+
 
 ---
 
