@@ -41,15 +41,12 @@ This is the Cybersecurity Portfolio Project.
 - 📜 Splunk
 - 📜 TATA Group, Cybersecurity Job Simulation (IAM)   
                                                                                                                        
-                                                                                         
-
-
 ---
 
 ## 🌐 Let's Connect
 - 📧 Email: [yorda.zerie@gmail.com](mailto:your.email@example.com)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🛡️ GitHub: [github.com/your-username](https://github.com/your-username)
+- 🛡️ GitHub: [https://github.com/yorda2020](https://github.com/your-username)
 
 ---
 
