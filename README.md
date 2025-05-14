@@ -15,7 +15,7 @@ This is the Cybersecurity Portfolio Project.
 ## 📁 Portfolio Projects
 
 ### 🔍 Incident Analysis & Documentation
-- Internal Audit 
+- Conducting a Cybersecurity Audit 
 - Built dashboards to monitor failed logins, unusual activity, and potential brute-force attacks.
 - Created alerts based on abnormal behavior using SPL (Search Processing Language).
 
