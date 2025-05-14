@@ -16,7 +16,7 @@ This is the Cybersecurity Portfolio Project.
 
 ### 🔍 Incident Analysis & Documentation
 - Conducting a Cybersecurity Audit 
-- Built dashboards to monitor failed logins, unusual activity, and potential brute-force attacks.
+- Document an incident with an incident handler's journal
 - Created alerts based on abnormal behavior using SPL (Search Processing Language).
 
 
