@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Yordanos
-
-## 🧠 About Me
-I'm a passionate Cybersecurity and Data Analytics Professional  with a strong interest in Defensive Cybersecurity and data-driven decision-making. With a background in teaching, data analysis, and a recent transition into cybersecurity, I enjoy solving real-world problems using tools like **Splunk**, **Power BI**, **SQL**, and **Python**.
-
+This is the Cybersecurity Portfolio Project.
 ---
 
 ## 🔧 Skills & Tools
@@ -22,15 +19,6 @@ I'm a passionate Cybersecurity and Data Analytics Professional  with a strong in
 - Created alerts based on abnormal behavior using SPL (Search Processing Language).
 
 ➡️ [View Project](https://api.immersivelabs.online/share/achievements/fcb13280bbde3caaa41152bce1fba494)
-
----
-
-### 📊 Power BI – Incident Response Metrics Dashboard
-- Visualized SOC KPIs including MTTR, alert volumes, and analyst performance.
-- Data sourced from synthetic incident response data.
-- Created interactive filters and report pages for executive visibility.
-
-➡️ [View Project](https://github.com/your-username/powerbi-soc-dashboard)
 
 ---
 
