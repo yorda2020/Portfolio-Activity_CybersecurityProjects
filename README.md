@@ -16,7 +16,7 @@ This is the Cybersecurity Portfolio Project.
 
 ### 🔍 Incident Analysis & Documentation
 - Conducting a Cybersecurity Audit 
-- Document an incident with an incident handler's journal
+- An incident with an incident handler's journal
 - Security incident response based on NIST Cybersecurity Framework.
   
 ➡️ [View Project](https://github.com/yorda2020/Portfolio-Activity_CybersecurityProjects/blob/main/Security%20Incidents%20and%20Documentation)
@@ -41,6 +41,15 @@ This is the Cybersecurity Portfolio Project.
    remediation.
  - Utilized Python skills to write a script for ethical hacking, avoiding ransom
    payments by brute-forcing decryption keys.
+
+➡️ [View Project](https://github.com/your-username/log-parser-python)
+
+
+### Tata Group's Cybersecurity Analyst on Forage
+
+- Completed a job simulation involving identity and access management (IAM) for Tata Consultancy Services, collaborating with a Cybersecurity Consulting team.
+- Acquired expertise in IAM principles, cybersecurity best practices, and strategic alignment with business objectives.
+- Delivered comprehensive documentation and presentations, showcasing the ability to communicate complex technical concepts effectively.
 
 ➡️ [View Project](https://github.com/your-username/log-parser-python)
    
