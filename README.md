@@ -19,7 +19,7 @@ This is the Cybersecurity Portfolio Project.
 - An incident with an incident handler's journal
 - Security incident response based on NIST Cybersecurity Framework.
   
-➡️ [View Project](https://github.com/yorda2020/Portfolio-Activity_CybersecurityProjects/blob/main/Security%20Incidents%20and%20Documentation)
+➡️ [View Project](https://github.com/yorda2020/Portfolio-Activity_CybersecurityProjects/tree/main/Documentation)
 
 
 ### 🔍 Splunk Lab – Security Log Analysis & Dashboarding
