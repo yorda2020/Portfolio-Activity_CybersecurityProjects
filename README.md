@@ -52,7 +52,7 @@ This is the Cybersecurity Portfolio Project.
 - Acquired expertise in IAM principles, cybersecurity best practices, and strategic alignment with business objectives.
 - Delivered comprehensive documentation and presentations, showcasing the ability to communicate complex technical concepts effectively.
 
-➡️ [View Project](https://github.com/your-username/log-parser-python)
+➡️ [View Project](https://github.com/yorda2020/Portfolio-Activity_CybersecurityProjects/tree/main/Identity%20and%20Access%20Management%20Simulation)
    
 ### 🐍 Python + Pandas – Security Log Parser
 - Wrote Python scripts to parse and summarize log data from Windows and Linux systems.
