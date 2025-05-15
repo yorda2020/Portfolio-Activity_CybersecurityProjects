@@ -42,7 +42,7 @@ This is the Cybersecurity Portfolio Project.
  - Utilized Python skills to write a script for ethical hacking, avoiding ransom
    payments by brute-forcing decryption keys.
 
-➡️ [View Project](https://github.com/your-username/log-parser-python)
+➡️ [View Project](https://github.com/yorda2020/Portfolio-Activity_CybersecurityProjects/tree/main/Threat%20analysis%20simulation)
 
 
 ### Tata Group's Cybersecurity Analyst on Forage
