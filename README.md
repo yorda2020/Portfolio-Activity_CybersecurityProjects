@@ -5,7 +5,7 @@ This is the Cybersecurity Portfolio Project.
 ---
 
 ## 🔧 Skills & Tools in Use 
-- **Security & Monitoring**: Splunk, Wireshark, Sysmon, Sigma, Zeek
+- **Security & Monitoring**: Splunk, Wireshark
 - **Threat Intelligence**: MITRE ATT&CK, OSINT, OpenCTI
 - **Automation & Scripting**: Python, Bash
 - **Other Tools**: Git, Markdown, Linux, Windows Server
