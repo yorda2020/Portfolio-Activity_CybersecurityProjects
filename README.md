@@ -54,7 +54,7 @@ This is the Cybersecurity Portfolio Project.
 
 ➡️ [View Project](https://github.com/yorda2020/Portfolio-Activity_CybersecurityProjects/tree/main/Identity%20and%20Access%20Management%20Simulation)
    
-### 🐍 Python + Pandas – Security Log Parser
+### 🐍 Python + Pandas – Security Log Parser (*(in progress)*)
 - Wrote Python scripts to parse and summarize log data from Windows and Linux systems.
 - Used Pandas and Matplotlib to analyze trends in network activity and login patterns.
 
