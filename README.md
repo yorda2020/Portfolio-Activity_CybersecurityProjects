@@ -22,11 +22,12 @@ This is the Cybersecurity Portfolio Project.
 ➡️ [View Project](https://github.com/yorda2020/Portfolio-Activity_CybersecurityProjects/tree/main/Documentation)
 
 
-### 🔍 Splunk Lab – Security Log Analysis & Dashboarding (uploading)
+### 🔍 Splunk Lab – Incident Detection & Response with Splunk
 - Used **Splunk** to ingest and analyze Windows event logs.
 - Built dashboards to monitor failed logins, unusual activity, and potential brute-force attacks.
 - Created alerts based on abnormal behavior using SPL (Search Processing Language).
 
+➡️ [View Project](https://api.immersivelabs.online/share/achievements/fcb13280bbde3caaa41152bce1fba494)
 ➡️ [View Project](https://api.immersivelabs.online/share/achievements/fcb13280bbde3caaa41152bce1fba494)
 
 ---
