@@ -29,7 +29,7 @@ This is the Cybersecurity Portfolio Project.
 
 ➡️ [View Project](https://api.immersivelabs.online/share/achievements/fcb13280bbde3caaa41152bce1fba494)
 
-➡️ [View Project](https://github.com/yorda2020/Portfolio-Activity_CybersecurityProjects/tree/main/Splunk%20L)
+➡️ [View Project](https://github.com/yorda2020/Portfolio-Activity_CybersecurityProjects/tree/main/SplunkLab)
 
 ---
 
